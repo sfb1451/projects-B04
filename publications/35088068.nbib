@@ -1,0 +1,94 @@
+PMID- 35088068
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221103
+LR  - 20221103
+IS  - 1460-2199 (Electronic)
+IS  - 1047-3211 (Linking)
+VI  - 32
+IP  - 21
+DP  - 2022 Oct 20
+TI  - Combined TMS-fMRI reveals behavior-dependent network effects of right 
+      temporoparietal junction neurostimulation in an attentional belief updating task.
+PG  - 4698-4714
+LID - 10.1093/cercor/bhab511 [doi]
+AB  - Updating beliefs after unexpected events is fundamental for an optimal adaptation 
+      to the environment. Previous findings suggested a causal involvement of the right 
+      temporoparietal junction (rTPJ) in belief updating in an attention task. We 
+      combined offline continuous theta-burst stimulation (cTBS) over rTPJ with 
+      functional magnetic resonance imaging (fMRI) to investigate local and remote 
+      stimulation effects within the attention and salience networks. In a 
+      sham-controlled, within-subject crossover design, 25 participants performed an 
+      attentional cueing task during fMRI with true or false information about cue 
+      predictability. By estimating learning rates from response times, we 
+      characterized participants' belief updating. Model-derived cue predictability 
+      entered the fMRI analysis as a parametric regressor to identify the neural 
+      correlates of updating. rTPJ-cTBS effects showed high interindividual 
+      variability. The expected learning rate reduction with false cue predictability 
+      information by cTBS was only observed in participants showing higher updating in 
+      false than in true blocks after sham. cTBS modulated the neural signatures of 
+      belief updating, both in rTPJ and in nodes of the attention and salience 
+      networks. The interindividual variability of the behavioral cTBS effect was 
+      related to differential activity and rTPJ connectivity of the right anterior 
+      insula. These results demonstrate a crucial interaction between ventral attention 
+      and salience networks for belief updating.
+CI  - © The Author(s) 2022. Published by Oxford University Press. All rights reserved. 
+      For permissions, please e-mail: journals.permissions@oup.com.
+FAU - Mengotti, Paola
+AU  - Mengotti P
+AUID- ORCID: 0000-0001-8427-1737
+AD  - Institute of Neuroscience and Medicine (INM-3), Forschungszentrum Jülich, Jülich 
+      52425, Germany.
+FAU - Käsbauer, Anne-Sophie
+AU  - Käsbauer AS
+AUID- ORCID: 0000-0003-3757-385X
+AD  - Institute of Neuroscience and Medicine (INM-3), Forschungszentrum Jülich, Jülich 
+      52425, Germany.
+FAU - Fink, Gereon R
+AU  - Fink GR
+AUID- ORCID: 0000-0002-8230-1856
+AD  - Institute of Neuroscience and Medicine (INM-3), Forschungszentrum Jülich, Jülich 
+      52425, Germany.
+AD  - Department of Neurology, University Hospital Cologne and Faculty of Medicine, 
+      University of Cologne, Cologne 50937, Germany.
+FAU - Vossel, Simone
+AU  - Vossel S
+AUID- ORCID: 0000-0002-6351-8849
+AD  - Institute of Neuroscience and Medicine (INM-3), Forschungszentrum Jülich, Jülich 
+      52425, Germany.
+AD  - Department of Psychology, Faculty of Human Sciences, University of Cologne, 
+      Cologne 50923, Germany.
+LA  - eng
+GR  - 01GQ1401/Federal Ministry of Education and Research/
+GR  - 431549029-SFB 1451/Deutsche Forschungsgemeinschaft/
+PT  - Journal Article
+PL  - United States
+TA  - Cereb Cortex
+JT  - Cerebral cortex (New York, N.Y. : 1991)
+JID - 9110718
+RN  - 8Q07182D0T (salicylhydroxamic acid)
+SB  - IM
+MH  - Humans
+MH  - *Magnetic Resonance Imaging
+MH  - *Parietal Lobe/physiology
+MH  - Attention/physiology
+MH  - Cues
+OTO - NOTNLM
+OT  - anterior insula
+OT  - attentional reorienting
+OT  - cue predictability
+OT  - salience network
+OT  - ventral attention network
+EDAT- 2022/01/29 06:00
+MHDA- 2022/11/04 06:00
+CRDT- 2022/01/28 05:56
+PHST- 2021/09/03 00:00 [received]
+PHST- 2021/12/10 00:00 [revised]
+PHST- 2021/12/11 00:00 [accepted]
+PHST- 2022/01/29 06:00 [pubmed]
+PHST- 2022/11/04 06:00 [medline]
+PHST- 2022/01/28 05:56 [entrez]
+AID - 6516233 [pii]
+AID - 10.1093/cercor/bhab511 [doi]
+PST - ppublish
+SO  - Cereb Cortex. 2022 Oct 20;32(21):4698-4714. doi: 10.1093/cercor/bhab511.
