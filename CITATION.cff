@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Motor control under uncertainty in the healthy
+  human brain
+message: This is our project description
+type: dataset
+authors:
+  - given-names: Paola
+    family-names: Mengotti
+    email: p.mengotti@fz-juelich.de
+    affiliation: 'INM-3, Forschungszentrum Jülich'
+    orcid: 'https://orcid.org/0000-0001-8427-1737'
+  - given-names: Simone
+    family-names: Vossel
+    email: s.vossel@fz-juelich.de
+    affiliation: 'INM-3, Forschungszentrum Jülich'
+    orcid: 'https://orcid.org/0000-0002-6351-8849'
+abstract: >-
+  Project B04 analyses motor network changes
+  depending on the predictability/uncertainty of an
+  intended motor response in younger and older
+  volunteers. Using a combination of computational
+  modelling of behaviour, fMRI, and novel
+  connectivity models, this project will focus on how
+  uncertainty about upcoming motor responses is
+  estimated, how this affects the activity of the
+  brain’s motor control networks, and how simulated
+  lesions may cause disruption of flexible motor
+  behaviour.
