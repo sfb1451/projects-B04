@@ -1,2 +1,3 @@
 3f9b8b45-6f12-4444-a7ed-2f5d27d14a4b encryption=none exporttree=yes name=sciebo-storage type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/p.mengotti%40fz-juelich.de/B04 timestamp=1667807228.9239s
+9a6fd0ed-fd65-4281-93d1-b30affaf8997 exporttree=yes sameas-name=my-sciebo-storage sameas-uuid=b8acdd76-64cb-4bc8-8f87-3f57ff408594 type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B04 timestamp=1681901231.541820128s
 b8acdd76-64cb-4bc8-8f87-3f57ff408594 encryption=none exporttree=yes name=sciebo-storage type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/s.vossel%40fz-juelich.de/B04 timestamp=1667901284.7764242s
